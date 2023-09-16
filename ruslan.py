@@ -4,3 +4,5 @@ y = float(input("Enter Rate:"))
 Salary = x*y
 
 print("Salary:", Salary)
+
+# Easy 
