@@ -1,4 +1,3 @@
-
 celsius = float(input("Enter Celsius Temperature: "))
 
 
