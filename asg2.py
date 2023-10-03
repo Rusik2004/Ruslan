@@ -9,7 +9,6 @@ def computepay(hours, rate):
 try:
     hours = float(input("Enter the number of hours worked: "))
     rate = float(input("Enter the hourly rate: "))
-
     if hours < 0 or rate < 0:
         print("Hours and rate must be non-negative.")
     else:
