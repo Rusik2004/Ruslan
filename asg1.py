@@ -11,7 +11,6 @@ def calculate_grade(score):
         return "D"
     else:
         return "F"
-
 try:
     input_score = float(input("Enter a score between 0 and 100: "))
     grade = calculate_grade(input_score)
